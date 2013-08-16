@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<style-scheme id="darkfury" _name="Darkfury" version="1.0">
+	<author>Francis Agyapong</author>
+	<_description>A dark color scheme for gedit</_description>
+
+	<!-- Global Settings -->
+	<style name="text" foreground="#white" background="#black"/>
+	<style name="selection" foreground="#f9f9f9" background="#4d4d4d"/>
+	<style name="current-line" background="#1a1a1a"/>
+	<style name="line-numbers" foreground="#808080" background="#1a1a1a"/>
+
+	<!-- Bracket Matching -->
+	<style name="bracket-match" foreground="#800000" background="#666666" bold="true"/>
+	<style name="bracket-mismatch" foreground="#red" background="#black"/>
+
+	<!-- Comments -->
+	<style name="def:comment" foreground="#37abc8"/>
+	<style name="def:shebang" foreground="#37abc8" bold="true"/>
+	<style name="def:doc-comment-element" italic="true"/>
+
+	<!-- Constants -->
+	<style name="def:constant" foreground="#008080"/>
+
+	<style name="def:cursor" foreground="#f9f9f9"/>
+	<style name="search-match" background="#24221c" foreground="#yellow"/>
+
+	<style name="def:specials" foreground="#c0d11a"/>
+	<!-- <style name="def:specials" foreground="#fd8900"/> -->
+	<style name="def:string" foreground="#0086d2"/>
+	<style name="def:constant" foreground="#0086d2"/>
+	<style name="def:number" bold="true" foreground="#0086f7"/>
+	<style name="def:statement" bold="true" foreground="#fb660a"/>
+	<style name="def:function" bold="true" foreground="#ff0086"/>
+	<style name="def:preprocessor" bold="true" foreground="#00bc43"/>
+	<style name="def:type" bold="true" foreground="#ff2a2a"/>
+	<style name="def:error" background="#ab0000" foreground="#ffffff"/>
+	<style name="def:identifier" bold="true" foreground="#0eda80"/>
+</style-scheme>
