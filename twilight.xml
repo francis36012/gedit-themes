@@ -48,6 +48,8 @@
   <style name="cursor" foreground="off_white"/>
   <style name="current-line" background="tinted_grey"/>
   <style name="line-numbers" foreground="light_grey" background="black_grey"/>
+  <style name="selection" background="dark_grey"/>
+  <style name="selection-unfocused" foreground="white" background="dark_grey"/>
   
 <!-- Bracket Matching -->
   <style name="bracket-match" background="steelblue3"/>
