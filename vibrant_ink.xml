@@ -8,6 +8,8 @@
   <color name="background" value="#272c2e"/>
   <color name="caret" value="#FFFF00"/>
   <color name="foreground" value="#EEEEEC"/>
+  <color name="selection" value="#4D4D4D"/>
+  <style name="selection-unfocused" background="BFBFBF"/>
   <color name="highlight" value="#BFBFBF"/>
   <color name="comment" value="#9933CC"/>
   <color name="keyword" value="#FF6600"/>
